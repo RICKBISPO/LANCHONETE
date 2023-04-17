@@ -31,4 +31,5 @@ O código é dividido em dois arquivos:
 - **CLASS.cs:** este arquivo contém a classe Venda, que contém as propriedades e métodos necessários para calcular o valor total da compra e o troco do cliente.
 
 <br><br>
-![image](https://user-images.githubusercontent.com/85528622/170795148-ccf040f0-6352-428b-a3f0-dac1cbbb66de.png)
+![image](https://user-images.githubusercontent.com/85528622/232566301-6cd4e91a-471d-4b73-8e56-30dd6585bf44.png)
+

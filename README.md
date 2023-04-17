@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação simples de uma lanchonete desenvolvida em C# que permite o usuário escolher a quantidade de lanches e refrigerantes e calcula o valor total da compra. Além disso, também calcula o troco do cliente após receber o pagamento.
 
-## Como utilizar
+## Como utilizar 🚀:
 
 Para utilizar a aplicação, basta seguir os seguintes passos:
 
@@ -22,7 +22,7 @@ Para utilizar a aplicação, basta seguir os seguintes passos:
 
 Pronto! O valor total da compra e o troco do cliente serão exibidos na tela.
 
-## Estrutura do código
+## Estrutura do código 🔧
 
 O código é dividido em dois arquivos:
 

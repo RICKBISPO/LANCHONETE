@@ -22,7 +22,7 @@ Para utilizar a aplicação, basta seguir os seguintes passos:
 
 Pronto! O valor total da compra e o troco do cliente serão exibidos na tela.
 
-## Estrutura do código 🔧
+## Estrutura do código :gear:
 
 O código é dividido em dois arquivos:
 
